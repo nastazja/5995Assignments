@@ -54,7 +54,14 @@ else:
     
 print([agents[1][0],agents[1][1]])
 
-# The function print(max(agents)) will print the coordinates with the biggest y value. 
+
+'''
+Measure distance between agents by Pythagoras theorum...
+answer = (((agents[0][0] - agents[1][0])**2) + ((agents[0][1] - agents[1][1])**2))**0.5
+print(answer)
+'''
+
+# The function print(max(agents)) would print the coordinates with the biggest y value. 
 
 ''' To find out which agent is furthest east (largest x value) we need to pass
 in an extra function to access the second element of the list. '''
