@@ -1,5 +1,5 @@
-# GEOG5995 Practical Assessments
-## Welcome to Nastazja's repository for the Programming for Social Science assessments. 
+# GEOG5995 Practical Assignments
+## Welcome to Nastazja's repository for the Programming for Social Science assignments. 
 
 **Nastazja had no coding experience prior to this module. Skills for these assignments were learnt from a 1-week intensive course, several readings of learning materials and a few run-throughs of the practicals. This repository represents a final attempt of each practical.**
 
