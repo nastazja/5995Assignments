@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Practical 9: GUI and Web, ABM Model, based on GEOG5995 learning materials.
+Practical 9: GUI and Web, ABM, based on GEOG5995 learning materials.
 
 @author: nastazjalaskowski
 
