@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 27 16:05:56 2020
+Practical 9: GUI and Web, Agent Class, based on GEOG5995 learning materials.
 
 @author: nastazjalaskowski
 """
