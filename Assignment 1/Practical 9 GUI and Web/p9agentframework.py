@@ -32,11 +32,8 @@ other they evenly share their 'food' stores.
 # list of agents and the neighbourhood. random.randint sets the y and x coordinates
 # at a random integer between the specified parameters if no other value is provided.
 
-
-# Set up a Class.
 class Agent:
     
-# Set up variables x and y for the agent (random numbers).
     def __init__(self, environment, agents, neighbourhood, y=None, x=None):
         self.y = y
         self.x = x
