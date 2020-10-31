@@ -5,7 +5,6 @@
 
 **Assignment 1:** This project is centred on the concepts of Agent Based Modelling and Object Oriented Programming. The model will contain agents wandering around, eating material (data) from the environment and sharing stores with each other when in close proximity.
 
-- *Practicals 8 & 9* contain the latest code developed following the learning materials and the code is fully commented. 
 - *Final Model and Additions* contains a final model that should run correctly and an enhanced model with experimental additional features. 
 - *My website* is written in a combination of markdown and HTML can be found at nastazja.github.io. 
 
