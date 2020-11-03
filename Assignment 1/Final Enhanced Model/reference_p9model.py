@@ -158,7 +158,6 @@ for row in environment:
 	writer.writerow(row)		
 f2.close()
 
-
 """
 END OF PRACTICAL 9: GUI AND WEB. 
 
