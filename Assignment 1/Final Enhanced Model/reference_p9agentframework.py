@@ -92,3 +92,7 @@ class Agent:
     def distance_between(self, agent):
         return (((self.x - agent.x)**2) + ((self.y - agent.y)**2))**0.5
     
+'''
+End of Practical 9: GUI and Web, Agent Class
+'''
+    
