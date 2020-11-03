@@ -5,7 +5,7 @@
 
 **Assignment 1:** This project is centred on the concepts of Agent Based Modelling and Object Oriented Programming. The model will contain agents wandering around, eating material (data) from the environment and sharing stores with each other when in close proximity.
 
-- *Final Model and Additions* contains a final model that should run correctly and an enhanced model with experimental additional features. 
+- *Final Enhanced Model* contains an enhanced model with experimental additional features and Practical 9 model for reference to a rolled back code pre-enhancement. 
 - *Nastazja's website* can be found at nastazja.github.io. 
 
 **Assignment 2:** Will be an independent project building up a model from scratch, and will appear in this repository by 16 December.
