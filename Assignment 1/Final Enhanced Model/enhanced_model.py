@@ -234,8 +234,17 @@ for i in range (len(agents)):
     
 for j in range (len(wolves)):
     print(wolves[j]) 
-
-    
+  
 '''
 End of Enhanced ABM.
+
+TIMING THE CODE: the following code can be inserted at the desired 
+start and end points to time how long a piece of code takes to run. 
+time.clock() has been deprecated since Python 3.3 so perf_counter was tried instead:
+    
+from time import perf_counter
+start = perf_counter()
+end = perf_counter()
+print("time = " + str(end - start))
+
 '''
