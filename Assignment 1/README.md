@@ -8,4 +8,4 @@
 - *Final Enhanced Model* contains an enhanced model with experimental additional features and Practical 9 model for reference to a rolled back code pre-enhancement. 
 - *Nastazja's website* can be found at nastazja.github.io. 
 
-**Assignment 2:** Will be an independent project building up a model from scratch, and will appear in this repository by 16 December.
+**Assignment 2:** Will be an independent project building up a model from scratch, and will appear in its own repository by 16 December.
